@@ -1,0 +1,6 @@
+my_string = "M,A,A,M"
+reversed_string = my_string[::-1]
+if(my_string == reversed_string):
+  print("palindrome")
+else:
+  print("not palindrome")
