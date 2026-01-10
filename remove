@@ -1,0 +1,3 @@
+list=["red dead redemption","god of war","assassin's creed","asphalt"]
+list.remove("assassin's creed")
+print(list)
