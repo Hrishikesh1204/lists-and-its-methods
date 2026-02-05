@@ -1,0 +1,4 @@
+list1=[10,20,30,40]
+list2=list1.copy()
+print("original list:",list1)
+print("copied list:",list2)
